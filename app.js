@@ -352,7 +352,7 @@ app.get('/', (req, res) => {
     </div>
 
     <div class="footer">
-      built by anushka hazra &nbsp;·&nbsp; deployed via ci/cd pipeline
+      deployed on aws ec2 &nbsp;·&nbsp; automated via github actions
     </div>
 
   </div>
